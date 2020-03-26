@@ -3,6 +3,7 @@ Web scraping Corona updates table using Python (requests, bs4) from www.worldome
 
 ## Worldometers site
 ![Worldometer](https://github.com/sthasam2/Corona-Update/blob/master/samples/Screenshot%20from%202020-03-26%2022-47-50.png)
+![Worldometer corona table](https://github.com/sthasam2/Corona-Update/blob/master/samples/Screenshot%20from%202020-03-26%2022-47-43.png)
 
 ### Code:
 ```python
@@ -104,7 +105,7 @@ print("Data exported to: 'CoronaUpdate.csv' file")
 
 ### Output CSV file
 
-![Output CSV](https://github.com/sthasam2/Corona-Update/blob/master/samples/Screenshot%20from%202020-03-26%2022-47-43.png)
+![Output CSV](https://github.com/sthasam2/Corona-Update/blob/master/samples/Screenshot%20from%202020-03-26%2022-45-52.png)
 
 ## FUTURE ENHANCEMENTS
 * Will try to create a webapp with charts and plots for data visualization
