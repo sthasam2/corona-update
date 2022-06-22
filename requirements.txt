@@ -18,7 +18,7 @@ jupyter-client==6.1.1
 jupyter-core==4.6.3
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 parso==0.6.2
 pexpect==4.8.0
